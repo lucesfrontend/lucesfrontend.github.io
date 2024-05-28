@@ -49,6 +49,7 @@ p,
 
 .navbar-inverse .navbar-nav .nav-link, .navbar-nav .nav-link {
 	font-weight: 400;
+    color: #000000;
 }
 
 .blog-meta span {
